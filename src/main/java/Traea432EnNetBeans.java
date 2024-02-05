@@ -9,6 +9,6 @@
 public class Traea432EnNetBeans {
 
     public static void main(String[] args) {
-        System.out.println("Hola Mercedes!");
+        System.out.println(“>Epi: ¡Hola Blas!\n>Blas: ¡Hola Epi!\n”);
     }
 }
